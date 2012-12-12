@@ -1,1 +1,4 @@
 git config --global src
+
+
+git init
